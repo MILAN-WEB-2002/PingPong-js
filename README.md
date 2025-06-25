@@ -1,9 +1,10 @@
 # 🎮 Pong Game – HTML5 Canvas & JavaScript
 
 A simple two-player **Pong game** implemented using the HTML5 Canvas API and vanilla JavaScript. This project demonstrates real-time paddle control, collision detection, dynamic ball movement, and score tracking.
+#SCREENSHOT
 
-(screensh<img width="1194" alt="Screenshot 2025-06-25 at 8 20 26 PM" src="https://github.com/user-attachments/assets/21032e8a-1221-4ad6-a01c-68f75d10a0c3" />
-ot.png) 
+<img width="1194" alt="Screenshot 2025-06-25 at 8 20 26 PM" src="https://github.com/user-attachments/assets/21032e8a-1221-4ad6-a01c-68f75d10a0c3" />
+
 
 ---
 
