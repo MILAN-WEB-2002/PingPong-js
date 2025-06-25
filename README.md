@@ -30,13 +30,7 @@ A simple two-player **Pong game** implemented using the HTML5 Canvas API and van
 
 ---
 
-## 📦 Getting Started
 
-1. **Clone or download** this repository:
-   ```bash
-   git clone https://github.com/your-username/pong-canvas-game.git
-
-
-   👨‍💻 Author
+👨‍💻 Author
 Milan Paul Sunny
 22 years old, aspiring developer with a strong interest in cybersecurity, Python, and automation with n8n. Loves to learn by building.
